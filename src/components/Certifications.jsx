@@ -17,7 +17,7 @@ const certs = [
   },
 
   {
-    name: "Spring Boot with Python",
+    name: "Basic Python",
     issuer: "Infosys Springboard",
     isInternship: false,
     pdf: "/certificates/springboot.pdf"
@@ -27,7 +27,7 @@ const certs = [
     name: "Java Bootcamp",
     issuer: "LetsUpgrade",
     isInternship: false,
-    pdf: "/certificates/java-bootcamp.pdf"
+    pdf: "/certificates/java_bootcamp.pdf"
   },
 
   {
@@ -37,8 +37,8 @@ const certs = [
     pdf: "/certificates/fullstack.png"
   },
   {
-    name: "Spring Boot with React.js",
-    issuer: "Softpro India",
+    name: " React.js",
+    issuer: "Infosys Springboard",
     isInternship: false,
     pdf: "/certificates/react.js.pdf"
   }

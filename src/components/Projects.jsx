@@ -7,39 +7,42 @@ const projects = [
     title: "StaySphere",
 
     description:
-      "Travel accommodation platform with authentication, booking flow and complete CRUD functionality.",
+      "A full-stack travel accommodation platform featuring secure authentication, property listings, image uploads, reviews, booking management, complete CRUD functionality, and an AI-powered travel planner for personalized trip experiences.",
 
     tech: [
       "Node.js",
-      "Express",
+      "Express.js",
       "MongoDB",
       "EJS",
-      "Bootstrap"
+      "Bootstrap",
+      "Cloudinary",
+      "AI Integration"
     ],
-
     image: "./dist/media/staysphere.png",
 
-    github:"https://github.com/Shrishtipareek/StaySphere.git",
-    live:"#"
+    github: "https://github.com/Shrishtipareek/StaySphere.git",
+    live: "#"
   },
 
   {
-    title:"Zerodha Clone",
+    title: "ConnectLive",
 
     description:
-      "Trading dashboard with portfolio tracking, holdings management and simulated order APIs.",
+      "A real-time communication platform with multilingual live translation support, enabling users to communicate seamlessly across different languages with instant message translation.",
 
-    tech:[
+    tech: [
       "React",
       "Node.js",
+      "Express.js",
       "MongoDB",
-      "Material UI"
+      "Socket.io",
+      "API Integration"
     ],
 
-    image:"/media/zerodha.png",
+    image: "./dist/media/connectLive.png",
 
-    github:"#",
-    live:"#"
+    github: "https://github.com/Shrishtipareek/ConnectLive.git",
+    live: "#"
   }
 ];
 
