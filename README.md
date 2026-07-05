@@ -18,7 +18,7 @@ A personal portfolio website built using the MERN stack and EJS to showcase my s
 * JavaScript 
 
 ## RunCommand
- npm start
+ npm run dev
 
 
 ## Author
